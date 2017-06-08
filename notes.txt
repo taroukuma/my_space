@@ -1,0 +1,5 @@
+1) what is the difference between char x[10] = "..." and x = "...'?
+2) what is the difference between char x[10] = {...} and x = {...}?
+3) why is one version ok and the other not?
+4) Once we have declared an array or malloced it, do we have to initialize each member individually? -NO. we can create a string literal and just loop through it. remember that we can still access the elements in a string literal. we just cant modify them.
+5) 

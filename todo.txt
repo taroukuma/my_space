@@ -1,0 +1,5 @@
+1) watch the string pcrs or go through so other resource.
+2) 
+
+-----------------------------------------------------------------------------
+1) learn lisp so we can configure emacs.
