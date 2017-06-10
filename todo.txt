@@ -1,5 +1,17 @@
-1) watch the string pcrs or go through so other resource.
-2) 
+1) watch the relevant pcrs and prepare for the b09 assignment(30 th).
+2) find a concise tutorial on java and finish the b63 assignment(21 st).
+3) read about basic datastructures and review b63 for midterm(26 th).
+4) read the relevant chapters for b52 and solve the questions(24 th).
+5) watch all the pcrs vids and do the practice sheets and previous exams for b09(21 st).
+6) read and practice(draw) the slides for b58 and study any previous exams for b58(26 th).
+7)
 
 -----------------------------------------------------------------------------
 1) learn lisp so we can configure emacs.
+2) basic datastructures and algorithms and cromen book.
+3) java.
+4) theory of computation, automata theory.
+5) theoretical neuroscience.
+6) cmsc notes for hardware.
+7) relearn calculus.
+8) 

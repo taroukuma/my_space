@@ -7,3 +7,4 @@
 --------------------------------------------------------------------------------------
 1) 0 is the same as the null character '\0'
 2) The way to check if a character is upper case is to check whether it is between 'A' and 'Z' because remember ascii.
+3) 

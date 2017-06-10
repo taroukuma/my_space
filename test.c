@@ -1,8 +1,17 @@
 #include <stdio.h>
-#define MAX 100
+#include <string.h>
+
+int my_strlen(const char *s);
 
 int main() {
-  char x[10] = {'h', 'e', 'y', 0};
-  printf("%s \n", x);
+  printf("%d \n", my_strlen("hello"));
   return 0;
+}
+
+int my_strlen(const char *s) {
+    int result = 0;
+    while (*(s + result) != '\0') {
+        result ++;
+    }
+    return result;
 }
