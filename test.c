@@ -1,17 +1,19 @@
 #include <stdio.h>
 #include <string.h>
 
-int my_strlen(const char *s);
+typedef struct Me {
+  int gpa;
+  int age;
+  char *name;
+} me;
+
 
 int main() {
-  printf("%d \n", my_strlen("hello"));
+  me my_struct;
+  me *kumar = &my_struct;
+  kumar -> gpa = 1;
+  kumar -> age = 10;
+  printf("%d %d \n", kumar -> gpa, kumar -> age);
   return 0;
 }
 
-int my_strlen(const char *s) {
-    int result = 0;
-    while (*(s + result) != '\0') {
-        result ++;
-    }
-    return result;
-}
