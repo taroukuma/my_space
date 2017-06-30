@@ -1,0 +1,5 @@
+what is a program?
+- its just a sequence of executable instructions(can be at a human level in the case of source code or can be a machine level code).
+q: it is possible to write programs that run other programs? Isnt it the same thing as calling functions?
+what is a process?
+- it is an instantiation of a program with a specific state.

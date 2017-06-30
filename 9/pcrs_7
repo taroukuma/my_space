@@ -1,0 +1,9 @@
+what is a program?
+- its just a sequence of executable instructions(can be at a human level in the case of source code or can be a machine level code).
+q: it is possible to write programs that run other programs? Isnt it the same thing as calling functions?
+what is a process?
+- it is an instantiation of a program with a specific state. State is represented by a lot of things: next line of code to execute, value of the
+  variables, process id, stack pointer, and a program pointer.
+q: what is a stack and a program pointer?
+q: what does it mean for the os to switch between ready and running processes to give us the illusion that many processes are running simultaneusly?
+

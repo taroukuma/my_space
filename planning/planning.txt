@@ -1,0 +1,6 @@
+june 30 friday pcrs and b63 catchup
+july 1 saturday b58 project and b09 catchup (pcrs)
+july 2 sunday b52 catchup (the textbook and practice)
+july 3 monday b58 catchup and the project
+-then the plan is to start reading clrs from the start (how many chapters a day depends on the efficiency)
+-at the same time, we can concurrently start reading b36.
